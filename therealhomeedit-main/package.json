@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.4.1",
+    "@tailwindcss/forms": "^0.3.4",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-horizontal-scrolling-menu": "^2.5.0",
+    "react-markdown": "^7.1.0",
+    "react-number-format": "^4.7.3",
+    "react-query": "^3.31.0",
+    "react-select": "^5.1.0",
+    "seamless-scroll-polyfill": "^2.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "STRAPI_URL": "https://therealhomeedit-5o6iv.ondigitalocean.app",
+    "STRAPI_DOMAIN": "therealhomeedit-5o6iv.ondigitalocean.app",
+    "AWS_S3_DOMAIN": "therealhomeedit.s3.amazonaws.com"
+}
